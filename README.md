@@ -4,6 +4,9 @@
 
  ### [cxwithyxy-m3u8-downloader](https://gxggsrmyy.github.io/cxwithyxy-m3u8-downloader/)，推荐使用 chrome 浏览器。
 
+ ### [media-source-extract](https://gxggsrmyy.github.io/media-source-extract/extract-code.js)，[油猴插件](https://gxggsrmyy.github.io/media-source-extract/media-source-extract.user.js)
+
+
   ### https://cableav.tv
   ### https://u3c3.com
   ### https://www.javbus.com
