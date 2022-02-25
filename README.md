@@ -10,6 +10,13 @@
   ### https://btsow.rest
   ### https://avmoo.sbs
   ### https://www.javlibrary.com
+  ### https://javdb.com
+  ### https://u3c3.com
+  ### https://www.javbus.com
+  ### https://btsow.rest
+  ### https://avmoo.sbs
+  ### https://www.javlibrary.com
+
   
  ### 
 go to https://www.wintun.net and download the latest release, copy the right wintun.dll into Clash home directory，
