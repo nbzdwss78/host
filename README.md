@@ -11,11 +11,8 @@
   ### https://avmoo.sbs
   ### https://www.javlibrary.com
   ### https://javdb.com
-  ### https://u3c3.com
-  ### https://www.javbus.com
-  ### https://btsow.rest
-  ### https://avmoo.sbs
-  ### https://www.javlibrary.com
+  ### https://theporndude.com
+  
 
   
  ### 
