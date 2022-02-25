@@ -12,7 +12,8 @@
   ### https://www.javlibrary.com
   ### https://javdb.com
   ### https://theporndude.com
-  
+  ### https://pornsites.com
+  ### https://porngeek.com
 
   
  ### 
