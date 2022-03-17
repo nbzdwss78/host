@@ -17,8 +17,17 @@
   ### https://theporndude.com
   ### https://pornsites.com
   ### https://porngeek.com
+  ### https://nyaa.si
+  ### https://1337x.to
+  ### https://zooqle.com
+  ### http://yts.am
+  ### https://torrentz2.eu
+  ### https://limetorrent.cc
+  ### https://www.torrentdownloads.me
+  ### http://eztv.ag
 
-  
+
+ ###   
  ### 
 go to https://www.wintun.net and download the latest release, copy the right wintun.dll into Clash home directory，
 Clash home directory 是  C:\Users\Administrator\.config\clash
