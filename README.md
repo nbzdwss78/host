@@ -26,6 +26,13 @@
   ### https://www.torrentdownloads.me
   ### http://eztv.ag
   ### http://torrentkittyurl.com/tk
+  ### https://thepiratebay.org
+  ### https://yts.lt/
+  ### https://rarbg.to/
+  ### https://torrentgalaxy.to/
+  ### https://zooqle.com/
+  ### https://www.rarbgmirror.com/
+
 
 
  ###   
