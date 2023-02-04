@@ -32,8 +32,8 @@
   ### https://torrentgalaxy.to/
   ### https://zooqle.com/
   ### https://www.rarbgmirror.com/
-
-
+  ### https://soav.com
+  ### https://missav.com
 
  ###   
  ### 
