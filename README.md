@@ -34,11 +34,16 @@
   ### https://www.rarbgmirror.com/
   ### https://soav.com
   ### https://missav.com
+<<<<<<< HEAD
   ### https://www.pornfind.org/
   ### https://xnxx.com
   ### https://eporner.com
   ### https://ww2.chinababe.net
   ### https://zh.chinababe.com
+=======
+  ### https://avgle.com
+
+>>>>>>> 587f70c4db085be03bcb116430f12a3878d59ee4
  ###   
  ### 
 go to https://www.wintun.net and download the latest release, copy the right wintun.dll into Clash home directory，
