@@ -42,6 +42,9 @@
   ### https://zh.chinababe.com
 =======
   ### https://avgle.com
+  ### https://hpjav.com
+  ### https://maxjav.com
+  ### https://myav.com
 
 >>>>>>> 587f70c4db085be03bcb116430f12a3878d59ee4
  ###   
